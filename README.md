@@ -1,5 +1,5 @@
-Name - Anmol Rajput 
-College - Lovely Professional University
+Name - Anmol Rajput , 
+College - Lovely Professional University , 
 Project Name - Covid-19 Prediction Using Machine Learning
 
 ## Model Predictors and Exact Variable Names (True = 1, False = 0)
